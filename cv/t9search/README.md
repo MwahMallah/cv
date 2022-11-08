@@ -1,3 +1,3 @@
 implements T9 (predictive text) 
 
-usage: ./t9search NUMBER <LIST_OF_CONTACTS.txt
+usage: ./t9search NUMBER <seznam.txt
